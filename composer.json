@@ -1,5 +1,5 @@
 {
-    "name": "nurfaizfy/digiflazz-php-library",
+    "name": "anasamu/digiflazz-php-library",
     "description": "Unofficial PHP Library Digiflazz",
     "type": "library",
     "require": {
@@ -16,6 +16,10 @@
         {
             "name": "nurfaizfy",
             "email": "nurfaizfy19@gmail.com"
+        },
+        {
+            "name": "anas amu",
+            "email": "anasamu7@gmail.com"
         }
     ],
     "minimum-stability": "stable"
